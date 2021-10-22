@@ -5,7 +5,6 @@ const readline = require('readline').createInterface({
   })
   //Ask input form user
   readline.question(`Write your password : `, userInput => {
-    console.log(`Hi ${userInput}!`)
     readline.close()
 
     //Check password
