@@ -12,3 +12,7 @@ EN: Check if the password is strong or not
 ## 3. Celsius to Fahrenheit converter:
 FR : Convertis les celsius en fahrenheits  
 EN : Convert Celsius to Fahrenheit
+
+## 3. Celsius to Fahrenheit converter:
+FR : Inverse la chaîne de caractères donnée    
+EN : Reverse the given string
