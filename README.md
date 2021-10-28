@@ -13,6 +13,10 @@ EN: Check if the password is strong or not
 FR : Convertis les celsius en fahrenheits  
 EN : Convert Celsius to Fahrenheit
 
-## 3. Celsius to Fahrenheit converter:
-FR : Inverse la chaîne de caractères donnée    
+## 4. Reverse string:
+FR : Inverse la chaîne de caractères donnée      
 EN : Reverse the given string
+
+## 5. Factorialize Number:
+FR : Retourne la factorielle de l'entier      
+EN : Return the factorial of the int 
