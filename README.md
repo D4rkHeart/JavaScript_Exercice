@@ -29,3 +29,7 @@ EN : Return the length of the longest word in the provided sentence in int.
 FR : Retourne le plus grands nombres dans les tableaux.       
 EN : Return the largest numbers in arrays. 
 
+## 8. Word ending checker:
+FR : Vérifier si une chaîne de caractères se termine par la chaîne cible donnée.       
+EN : Check if a string ends with the given target string.   
+
