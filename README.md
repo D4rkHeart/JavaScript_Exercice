@@ -21,6 +21,6 @@ EN : Reverse the given string
 FR : Retourne la factorielle de l'entier      
 EN : Return the factorial of the int 
 
-## 6. Longest word:
+## 6. Longest word checker:
 FR : Retourne la longueur du mot le plus long de la phrase fournie en nombre entier.       
 EN : Return the length of the longest word in the provided sentence in int. 
