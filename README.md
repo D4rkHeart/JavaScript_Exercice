@@ -33,3 +33,6 @@ EN : Return the largest numbers in arrays.
 FR : Vérifier si une chaîne de caractères se termine par la chaîne cible donnée.       
 EN : Check if a string ends with the given target string.   
 
+## 9. Repeat string:
+FR : Répéter une chaîne donnée un certain nombre de fois     
+EN : Repeat a given string for num times.   
