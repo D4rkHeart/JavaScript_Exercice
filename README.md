@@ -20,3 +20,7 @@ EN : Reverse the given string
 ## 5. Factorialize Number:
 FR : Retourne la factorielle de l'entier      
 EN : Return the factorial of the int 
+
+## 6. Longest word:
+FR : Retourne la longueur du mot le plus long de la phrase fournie en nombre entier.       
+EN : Return the length of the longest word in the provided sentence in int. 
